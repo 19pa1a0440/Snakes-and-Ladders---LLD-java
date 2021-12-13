@@ -1,6 +1,10 @@
 # Snakes-and-Ladders---LLD-java
 --> Its a Low Level Design of Snakes and Ladders Game using java language and concepts.
 
+
+
+--> You can find the game source files in Game Components folder and Main file in Game Main folder.
+
 # Inputs :
 ---> After game is initiated, you will be asked for inputs of below mentioned -
 
